@@ -68,8 +68,7 @@ Use `scripts/all_compare.sh` to do pairwise comparison between different rebutta
 If you find this repo or the paper useful, please cite:
 ```
 @article{han2025drpg,
-  title={DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for
-Academic Rebuttal},
+  title={DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal},
   author={Han, Peixuan and Yu, Yingjie and Xu, Jingjun and You, Jiaxuan},
   journal={arXiv preprint arXiv:2601.18081},
   url={https://arxiv.org/pdf/2601.18081},
