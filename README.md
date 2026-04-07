@@ -1,8 +1,12 @@
 <div align="center">
-<h1>
-DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal
-</h1>
+  <h1>
+    <img src="figures/DRPG.png" 
+         alt="icon" 
+         style="vertical-align: -1.5em; height: 3em; margin-right: 0.5em;">
+    DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal
+  </h1>
 </div>
+
 
 <div align="center">
 <h3>
